@@ -1,0 +1,11 @@
+{
+    "name": "zakeri/dz346",
+    "autoload": {
+        "psr-4": {
+            "App\\": ["src/"]
+        }
+    },
+    "require": {
+        "symfony/console": "^5.4"
+    }
+}
